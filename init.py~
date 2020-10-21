@@ -1,0 +1,12 @@
+from reverse import *
+from os import *
+
+print(rstring("!)gnirts esrever( ereht iH"))
+
+import mc
+olist = mc.OpenFiles()
+print (len(olist))
+for i in iter(olist):
+    print(olist[i].filename)
+    system("printf '" + olist[i].filename + "'\\\\n >> log2.txt")
+    

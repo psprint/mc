@@ -1,0 +1,40 @@
+C API call	       Python equivalent	 | Description
+-------------------------------------------------------------------------------------------------------
+PyImport_ImportModule  import module		 | Imports a module into the Python instance.
+PyImport_ReloadModule  reload(module)		 | Reloads the specified module.
+PyImport_GetModuleDict sys.modules		 | Returns a dictionary object containing the list of
+						 | loaded modules.
+PyModule_GetDict       module.__dict__		 | Returns the dictionary for a given object.
+PyDict_GetItemString   dict[key]		 | Gets the value for a corresponding dictionary key.
+PyDict_SetItemString   dict[key] = value	 | Sets a dictionary key’s value.
+PyDict_New             dict = {}		 | Creates a new dictionary object.
+PyObject_GetAttrString getattr(obj, attr)	 | Gets the attribute for a given object.
+PyObject_SetAttrString setattr(obj, attr,val)	 | Sets the value for a given attribute in an object.
+PyEval_CallObject      apply(function, args)	 | Calls a function with arguments in args.
+PyRun_String            eval(expr), exec expr	 | Executes expr as a Python statement.
+PyRun_File             execfile(filename)	 | Executes the file filename.
+PySetProgramName       sys.argv[0] = name        | Changes the name of the Python program typically set
+						 | on the command line.
+PyGetProgramName       sys.argv[0]		 | Returns the name of the Python program name possibly
+						 | also set through PySetProgramName().
+PySys_SetArgv          sys.argv = list		 | Sets the arguments typically supplied on the command
+						 | line; should be supplied with two arguments (argc
+						 | and argv), the number of arguments, and a list of
+						 | strings, starting from 0.
+
+Function			| Description
+--------------------------------------------------------------------------------------------------------
+char* Py_GetPrefix()		| Returns the prefix for the platform-independent files.
+char* PyGetExecPrefix()		| Returns the execution prefix for the installed Python files.
+char* Py_GetPath()		| Returns the list of directories that Python searches for modules.
+				| (The return value is a string, so directories are separated by colons
+				| under UNIX variants and semicolons under Windows).
+char *Py_GetProgramFullPath()	| Returns the full default path to the Python interpreter (Obviously,
+				| if you moved interpreter from this location after installation, you
+				| won't get the answer you'd expect).
+const char* Py_GetVersion()	| Returns a string for the current version of the Python library.
+const char* Py_GetPlatform()	| Returns the platform identifier for the current platform.
+const char* Py_GetCopyright()	| Returns the copyright statement.
+const char* Py_GetCompiler()	| Returns the compiler string (name and version of the compiler) used
+				| to build the Python library.
+const char* Py_GetBuilderInfo()	| Returns the build information (version and date) of the interpreter.

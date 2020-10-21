@@ -1,0 +1,68 @@
+set_frontent_dialog sets… —→ ·˙°0x55cba2c13a00°˙·
+set_current_widget sets… —→ ·˙°0x55cba2c0a5a0°˙·
+get_frontent_dialog returns… —→ ·˙°0x55cba2c13a00°˙·
+1) WGroup *g —→ 0x55cba2c13a00
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c01400
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c03540
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c2e680
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c2e870
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/.ackrc °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/.ackrc ≈
+«FILE2» —→ ≈ None ≈
+
+get_frontent_dialog returns… —→ ·˙°0x55cba2c13a00°˙·
+1) WGroup *g —→ 0x55cba2c13a00
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c01400
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c03540
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c2e680
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c2e870
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/.ackrc °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/.ackrc ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55cba2bfec00°˙·
+get_frontent_dialog returns… —→ ·˙°0x55cba2c13a00°˙·
+1) WGroup *g —→ 0x55cba2c13a00
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c01400
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c03540
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c2e680
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c2e870
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/.ackrc °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/.ackrc ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55cba2c080a0°˙·
+get_frontent_dialog returns… —→ ·˙°0x55cba2c13a00°˙·
+1) WGroup *g —→ 0x55cba2c13a00
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c01400
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c03540
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c2e680
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55cba2c2e870
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/.ackrc °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/.ackrc ≈
+«FILE2» —→ ≈ None ≈
+

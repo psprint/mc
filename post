@@ -1,0 +1,51 @@
+I have a C application that I'd like to extend with Python scripting with the help of SWIG. However, I have a serious problem: whenever the SWIG module references a C object, like a function or a variable — I then have to *compile and link* the module (that contains it) with the resulting `_pymodule.so`… I'm building the `module.i` file as follows:
+
+        swig -verbose -cpperraswarn -builtin \
+            -I`pwd` -I`pwd`/src \
+            -I/usr/include/glib-2.0/ \
+            -I/lib/glib-2.0/include \
+            -I/usr/include/python3.8 \
+            -I/usr/include \
+                -python src/python/mc.i
+
+Then I link the `_pymodule.so`:
+
+        gcc -fPIC -Wall -shared \
+            -I `pwd` -I `pwd`/src \
+            -I /usr/include/glib-2.0/ \
+            -I /lib/glib-2.0/include \
+            -I /usr/include/python3.8/ \
+            some_c_source1.c some_c_source2.c \
+                pymodule_wrap.c
+
+The module is as follows:
+
+    %module pymodule
+    %include openfiles.h
+
+The header:
+
+    struct OpenFile {
+        int modified;
+        const char *filename;
+    };
+    typedef struct OpenFile OpenFile;
+    
+    struct OpenFiles {
+        OpenFile *open_files;
+        int count;
+    };
+    
+    typedef struct OpenFiles OpenFiles;
+
+    extern OpenFiles* pymc_get_open_files();
+
+The problem is that this creates **two** instances of everything — functions, global variables, etc… However if I won't link the used C file with the module, I get the following when importing the module **inside the application**, from the interpreter:
+
+    Traceback (most recent call last):
+      File "<string>", line 1, in <module>
+      File "/root/Dokumenty/mc-4.8.25/mc.py", line 15, in <module>
+        from _mc import *
+    ImportError: /root/Documents/swig-test/_pymodule.so: undefined symbol: pymc_get_open_files
+
+shouldn't the symbols be available?

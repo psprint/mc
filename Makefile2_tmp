@@ -1,0 +1,129 @@
+app_sources := src/editor/editwidget.c \
+	    src/python/initialize.c \
+	    lib/charsets.c \
+	    src/setup.c \
+	    src/filemanager/layout.c \
+	    lib/global.c \
+	    lib/tty/key.c \
+	    src/viewer/mcviewer.c \
+	    lib/widget/dialog.c \
+	    src/filemanager/tree.c \
+	    src/filemanager/filegui.c \
+	    src/vfs/ftpfs/ftpfs.c \
+	    src/editor/edit.c \
+	    src/editor/editcmd.c \
+	    src/editor/syntax.c \
+	    src/editor/editdraw.c \
+	    src/execute.c \
+	    lib/mcconfig/history.c \
+	    lib/vfs/gc.c \
+	    src/vfs/fish/fish.c \
+	    src/editor/format.c \
+	    src/keybind-defaults.c \
+	    src/filemanager/midnight.c \
+	    lib/widget/input.c \
+	    lib/tty/mouse.c \
+	    lib/timefmt.c \
+	    src/viewer/actions_cmd.c \
+	    lib/widget/menu.c \
+	    src/filemanager/command.c \
+	    src/subshell/common.c \
+	    lib/widget/listbox.c \
+	    src/args.c \
+	    lib/tty/tty-slang.c \
+	    src/clipboard.c \
+	    lib/skin/colors.c \
+	    lib/skin/_common.c \
+	    lib/vfs/netutil.c \
+	    lib/vfs/interface.c \
+	    lib/vfs/vfs.c \
+	    lib/tty/tty-internal.c \
+	    src/editor/editcmd_dialogs.c \
+	    src/viewer/dialogs.c \
+	    lib/widget/radio.c \
+	    lib/utilunix.c \
+	    src/filemanager/panel.c \
+	    src/filemanager/dir.c \
+	    lib/widget/dialog-switch.c \
+	    lib/widget/wtools.c \
+	    lib/search/lib.c \
+	    src/viewer/search.c \
+	    src/viewer/_lib.c \
+	    lib/tty/tty.c \
+	    lib/tty/win.c \
+	    src/filemanager/file.c \
+	    lib/strutil/strutil.c \
+	    lib/vfs/utilvfs.c \
+	    src/viewer/hex.c \
+	    lib/skin/ini-file.c \
+	    src/editor/bookmark.c \
+	    src/filemanager/hotlist.c \
+	    lib/util.c \
+	    lib/widget/widget-common.c \
+	    lib/widget/_mouse.c \
+	    src/viewer/datasource.c \
+	    src/file_history.c
+
+app_sources0 = $(wildcard src/*.c src/editor/*.c \
+		lib/tty/*.c lib/*.c src/filemanager/*.c \
+		lib/skin/*.c lib/widget/*.c \
+		src/viewer/*.c lib/vfs/*.c \
+		lib/strutil/*.c src/vfs/ftpfs/*.c \
+		src/subshell/*.c lib/mcconfig/*.c \
+		src/vfs/fish/*.c lib/search/*.c \
+		lib/event/*.c lib/filehighlight/*.c \
+		src/vfs/*.c src/vfs/sftpfs/*.c \
+		src/vfs/sfs/*.c src/vfs/extfs/*.c \
+		src/vfs/tar/*.c src/vfs/local/*.c \
+		src/vfs/cpio/*.c src/*/*.c \
+		src/python/mc.c \
+		)
+
+app_sources = $(filter-out src/consaver/cons.saver.c,$(app_sources0))
+app_sources = src/python/mc.c src/python/mc_wrap.c
+
+all:
+	swig -Wall -builtin \
+	    -I`pwd` -I`pwd`/src \
+	    -I/usr/include/glib-2.0/ \
+	    -I/lib/glib-2.0/include \
+	    -I/usr/include/python3.8 \
+	    -I/usr/include \
+		-python src/python/mc.i
+	
+	rm -f *.o
+	
+	#command cp -f lib/skin/common.c lib/skin/_common.c
+	#command cp -f src/viewer/lib.c src/viewer/_lib.c
+	#command cp -f lib/widget/mouse.c lib/widget/_mouse.c
+	
+	gcc -fPIC -Wall -g -O1 -shared \
+	    -I `pwd` -I `pwd`/src \
+	    -I /usr/include/glib-2.0/ \
+	    -I /lib/glib-2.0/include \
+	    -I /usr/include/python3.8/ \
+	    -DSAVERDIR=\"/root/.config/mc\" \
+	    -DSYSCONFDIR=\"/etc\" \
+	    -DDATADIR=\"/root/.config/mc\" \
+	    -DLOCALEDIR=\"/root/.config/mc\" \
+	    -DEXTHELPERSDIR=\"/root/.config/mc\" \
+       	    -DLIBEXECDIR=\"/usr/local/libexec/mc\" \
+		$(sort $(app_sources)) \
+		    -o _mc.so
+
+	#src/python/mc_wrap.c \
+		    
+		
+	# ger/midnight.c
+	# keybind-defaults.c
+	command printf 'ld\n' -shared -lc mc_wrap.o \
+	    $(sort $(notdir $(subst .c,.o,$(app_sources)))) \
+	    -o _mc2.so  -L/usr/lib/glib-2.0 \
+	    -lglib-2.0
+	
+	diff src/python/mc.py mc.py || true
+	
+	command cp src/python/mc.py .
+	
+	command mc || tput rmcup
+	tput rmcup

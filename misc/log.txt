@@ -1,0 +1,905 @@
+set_frontent_dialog sets… —→ ·˙°0x55aa95acc080°˙·
+set_current_widget sets… —→ ·˙°0x55aa95acd180°˙·
+get_frontent_dialog returns… —→ ·˙°0x55aa95acc080°˙·
+1) WGroup *g —→ 0x55aa95acc080
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95abe550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95ac5910
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef7f0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef9e0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55aa95ac1930°˙·
+get_frontent_dialog returns… —→ ·˙°0x55aa95acc080°˙·
+1) WGroup *g —→ 0x55aa95acc080
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95abe550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95ac5910
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef7f0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef9e0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55aa95acd4c0°˙·
+get_frontent_dialog returns… —→ ·˙°0x55aa95acc080°˙·
+1) WGroup *g —→ 0x55aa95acc080
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95abe550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95ac5910
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef7f0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef9e0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55aa95adb8e0°˙·
+get_frontent_dialog returns… —→ ·˙°0x55aa95acc080°˙·
+1) WGroup *g —→ 0x55aa95acc080
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95abe550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95ac5910
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef7f0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef9e0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55aa95adde20°˙·
+get_frontent_dialog returns… —→ ·˙°0x55aa95acc080°˙·
+1) WGroup *g —→ 0x55aa95acc080
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95abe550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95ac5910
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef7f0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef9e0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55aa95ae46c0°˙·
+get_frontent_dialog returns… —→ ·˙°0x55aa95acc080°˙·
+1) WGroup *g —→ 0x55aa95acc080
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95abe550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95ac5910
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef7f0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef9e0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55aa95adb4e0°˙·
+get_frontent_dialog returns… —→ ·˙°0x55aa95acc080°˙·
+1) WGroup *g —→ 0x55aa95acc080
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95abe550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95ac5910
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef7f0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef9e0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55aa95acf080°˙·
+get_frontent_dialog returns… —→ ·˙°0x55aa95acc080°˙·
+1) WGroup *g —→ 0x55aa95acc080
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95abe550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95ac5910
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef7f0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef9e0
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55aa95ae4660°˙·
+get_frontent_dialog returns… —→ ·˙°0x55aa95acc080°˙·
+1) WGroup *g —→ 0x55aa95acc080
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95abe550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95ac5910
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef7f0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef9e0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55aa95adb580°˙·
+get_frontent_dialog returns… —→ ·˙°0x55aa95acc080°˙·
+1) WGroup *g —→ 0x55aa95acc080
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95abe550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95ac5910
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef7f0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef9e0
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55aa95adb500°˙·
+get_frontent_dialog returns… —→ ·˙°0x55aa95acc080°˙·
+1) WGroup *g —→ 0x55aa95acc080
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95abe550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95ac5910
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef7f0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef9e0
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55aa95ac3b60°˙·
+get_frontent_dialog returns… —→ ·˙°0x55aa95acc080°˙·
+1) WGroup *g —→ 0x55aa95acc080
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95abe550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef7f0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef9e0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95ac5910
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55aa95acc8c0°˙·
+get_frontent_dialog returns… —→ ·˙°0x55aa95acc080°˙·
+1) WGroup *g —→ 0x55aa95acc080
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95abe550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95ac5910
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef7f0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef9e0
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x55aa95b0c120°˙·
+get_frontent_dialog returns… —→ ·˙°0x55aa95acc080°˙·
+1) WGroup *g —→ 0x55aa95acc080
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95abe550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95ac5910
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef7f0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x55aa95aef9e0
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_frontent_dialog sets… —→ ·˙°0x564a5a9c3a60°˙·
+set_current_widget sets… —→ ·˙°0x564a5a9c2140°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9b6930°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9c2480°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9b8b60°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9c1880°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9b8b60°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9c1880°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9d0560°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9c2180°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9cdf60°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5aa13920°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9c1c60°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9d8830°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9c3d80°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9c2040°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9cb4e0°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9d8830°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5aa140a0°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9c4160°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5aa157c0°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9d9520°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9d0840°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9d6c50°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9d94a0°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5a9c18a0°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x564a5aa155b0°˙·
+get_frontent_dialog returns… —→ ·˙°0x564a5a9c3a60°˙·
+1) WGroup *g —→ 0x564a5a9c3a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9b3550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9bbb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x564a5a9e5ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_frontent_dialog sets… —→ ·˙°0x555f8e9d6a60°˙·
+set_current_widget sets… —→ ·˙°0x555f8e9d5140°˙·
+get_frontent_dialog returns… —→ ·˙°0x555f8e9d6a60°˙·
+1) WGroup *g —→ 0x555f8e9d6a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9c6550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9ceb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x555f8e9e1ae0°˙·
+get_frontent_dialog returns… —→ ·˙°0x555f8e9d6a60°˙·
+1) WGroup *g —→ 0x555f8e9d6a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9c6550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9ceb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8ee0
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x555f8e9e3480°˙·
+get_frontent_dialog returns… —→ ·˙°0x555f8e9d6a60°˙·
+1) WGroup *g —→ 0x555f8e9d6a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9c6550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9ceb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x555f8e9cbb60°˙·
+get_frontent_dialog returns… —→ ·˙°0x555f8e9d6a60°˙·
+1) WGroup *g —→ 0x555f8e9d6a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9c6550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8ee0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9ceb20
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x555f8e9d4880°˙·
+get_frontent_dialog returns… —→ ·˙°0x555f8e9d6a60°˙·
+1) WGroup *g —→ 0x555f8e9d6a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9c6550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9ceb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8ee0
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x555f8ea23120°˙·
+get_frontent_dialog returns… —→ ·˙°0x555f8e9d6a60°˙·
+1) WGroup *g —→ 0x555f8e9d6a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9c6550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9ceb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8ee0
+1) The count is… —→ °1°
+1) Set the #1 file ··*/root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x555f8ea234a0°˙·
+get_frontent_dialog returns… —→ ·˙°0x555f8e9d6a60°˙·
+1) WGroup *g —→ 0x555f8e9d6a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9c6550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9ceb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x555f8e9de2c0°˙·
+get_frontent_dialog returns… —→ ·˙°0x555f8e9d6a60°˙·
+1) WGroup *g —→ 0x555f8e9d6a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9c6550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9ceb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x555f8ea10b80°˙·
+get_frontent_dialog returns… —→ ·˙°0x555f8e9d6a60°˙·
+1) WGroup *g —→ 0x555f8e9d6a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9c6550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9ceb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x555f8ea10b80°˙·
+get_frontent_dialog returns… —→ ·˙°0x555f8e9d6a60°˙·
+1) WGroup *g —→ 0x555f8e9d6a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9c6550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9ceb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x555f8e9ebf30°˙·
+get_frontent_dialog returns… —→ ·˙°0x555f8e9d6a60°˙·
+1) WGroup *g —→ 0x555f8e9d6a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9c6550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9ceb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x555f8ea10b80°˙·
+get_frontent_dialog returns… —→ ·˙°0x555f8e9d6a60°˙·
+1) WGroup *g —→ 0x555f8e9d6a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9c6550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9ceb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_current_widget sets… —→ ·˙°0x555f8ea25280°˙·
+get_frontent_dialog returns… —→ ·˙°0x555f8e9d6a60°˙·
+1) WGroup *g —→ 0x555f8e9d6a60
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9c6550
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9ceb20
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8cf0
+1) w->data ˙˙el from g->widgets˙˙ —→ 0x555f8e9f8ee0
+1) The count is… —→ °1°
+1) Set the #1 file ·· /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap °°
+__len__ called…
+
+The °dictionary° of OpenFiles instance… ≈≈≈ ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__int__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '_array', '_count', 'acquire', 'append', 'disown', 'next', 'own', 'this', 'thisown'] ≈≈≈
+
+Open files from °_count° —→ ≈ 1 ≈ ˙˙˙ from °len()° —→ ≈ 1 ≈ 
+«FILE1» —→ ≈ /root/Dokumenty/mc-4.8.25/misc/mc.default.keymap ≈
+«FILE2» —→ ≈ None ≈
+
+set_frontent_dialog sets… —→ ·˙°0x55bda1e757b0°˙·
