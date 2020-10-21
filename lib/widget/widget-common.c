@@ -146,8 +146,6 @@ widget_focus (Widget * w)
 "import mc\n"
 "olist = mc.OpenFiles()\n"
 "with open('log.txt', 'a') as myfile:\n"
-"        a=iter(olist)\n"
-"        print(a)\n"
 "        myfile.write('\\nThe °dictionary° of OpenFiles instance… ≈≈≈ '\n"
 "            + str(dir(olist))+' ≈≈≈\\n')\n"
 "        myfile.write('\\nOpen files from °_count° —→ ≈ ' +\n"
